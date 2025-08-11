@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - Working as Mern Stack Developer
 
 ## Techanical Skills 🛠️
-- Cloud Platforms: Amazon Web Services (AWS)
+- `Cloud Platforms`: Amazon Web Services (AWS)
 - Data Platforms: Databricks, Snowflake
 - Programming Languages: Python, SQL, Apache Kafka, Apache AirFlow
 - Libraries/Tools: NumPy, Pandas, Matplotlib, Git, Github, SnowFlake
