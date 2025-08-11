@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://facebook.com/yourusername">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" style="margin-right:10px;"/>
+<a href="https://facebook.com/yourusername" style="margin-right:10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
 </a>
 
 <a href="mailto:yourname@gmail.com">
