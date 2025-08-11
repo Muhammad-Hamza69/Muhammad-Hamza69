@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 ## About Me 🚀
 
-🎓 I'm a Data Engineer and Mern Stack Developer <br/>
-🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake)
-👨‍💻 I'm interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things.
+🎓 I'm a Data Engineer and Mern Stack Developer. <br/>
+🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). <br/>
+👨‍💻 I'm interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. <br/>
 
+## My Expereinces 🙌
+
+[Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/)
