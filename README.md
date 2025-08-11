@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ## My Expereinces 🙌
 
-[Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/)
+- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/)
