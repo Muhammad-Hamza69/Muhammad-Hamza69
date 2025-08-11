@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://facebook.com/yourusername">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" style="margin-right:8px"/>
 </a>
 
 <a href="mailto:yourname@gmail.com">
