@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://facebook.com/yourusername">
+<a href="https://www.facebook.com/profile.php?id=100009434039543">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:yourname@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@yourusername">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" width="30" />
 </a>
