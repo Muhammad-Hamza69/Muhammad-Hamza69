@@ -19,15 +19,12 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:yourname@gmail.com">
+<a href="mailto:m.hamzasiddiqui22@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/muhammad-hamza-386a36306/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@yourusername">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" width="30" />
-</a>
+
 
