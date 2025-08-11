@@ -27,4 +27,9 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
 </a>
 
+## About Me 🚀
+
+🎓 I'm a Data Engineer and Mern Stack Developer
+🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake)
+👨‍💻 I'm interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things.
 
