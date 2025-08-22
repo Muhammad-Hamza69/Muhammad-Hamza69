@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 - Hp Life Certified Data Analyst
 
 ## Follow 📫
-- 📧 Email: [](m.hamzasiddiqui22@gmail.com)
+- 📧 Email: [(m.hamzasiddiqui22@gmail.com)]
  
   
