@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## My Expereinces 🙌
 
-- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - Working as Mern Stack Developer
+- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - I  `worked` at Aptech as a MERN Stack Developer
 
 ## Techanical Skills 🛠️
 - **Cloud Platforms**: Amazon Web Services (AWS)
@@ -50,5 +50,7 @@ Here are some ideas to get you started:
 
 ## Follow 📫
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
+- 🔗 Linkedin: (https://www.linkedin.com/in/muhammad-hamza-386a36306/)
+- 💻 Github: (github.com/Muhammad-Hamza69)
  
   
