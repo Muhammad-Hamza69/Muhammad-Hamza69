@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## My Expereinces 🙌
 
-- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - I  `worked` at Aptech as a MERN Stack Developer
+- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - I  `worked` at Aptech as a MERN Stack Developer (21 April 2025 - 20 August 2025)
 
 ## Techanical Skills 🛠️
 - **Cloud Platforms**: Amazon Web Services (AWS)
