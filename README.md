@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 ## Follow 📫
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
 - 🔗 Linkedin: (https://www.linkedin.com/in/muhammad-hamza-386a36306/)
-- 💻 Github: (github.com/Muhammad-Hamza69)
+- 💻 Github: (https://github.com/Muhammad-Hamza69)
  
   
