@@ -39,14 +39,16 @@ Here are some ideas to get you started:
 
 ## Techanical Skills 🛠️
 - **Cloud Platforms**: Amazon Web Services (AWS)
+- **Orchestration & Streaming**: Apache Airflow, Apache Kafka
 - **Data Platforms**: Databricks, Snowflake
-- **Programming Languages**: Python, SQL, Apache Kafka, Apache AirFlow
+- **Programming Languages**: Python, SQL
 - **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, SnowFlake
+  
 
-## Certification
+## Certification 📜 
 - Hp Life Certified Data Analyst
 
-## Follow
-- To follow my GitHub, Search by username `Muhammad-Hamza69`
+## Follow 📫
+- 📧 Email: [](m.hamzasiddiqui22@gmail.com)
  
   
