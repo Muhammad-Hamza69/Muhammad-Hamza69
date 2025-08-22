@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
 
 ## Certification 📜 
-- Hp Life Certified Data Analyst
+- Hp Life Certified [Data Science and Analatics](https://www.life-global.org/certificate/eb1d9a8b-8b50-449d-bbaa-42023a35a01d)
 
 ## Follow 📫
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
