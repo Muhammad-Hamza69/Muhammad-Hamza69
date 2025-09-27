@@ -59,5 +59,10 @@ Here are some ideas to get you started:
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
 - 🔗 Linkedin: (https://www.linkedin.com/in/muhammad-hamza-386a36306/)
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
+- To Follow my Github search By username `Muhammad-Hamza69`
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Hamza69.Muhammad-Hamza69)
  
   
