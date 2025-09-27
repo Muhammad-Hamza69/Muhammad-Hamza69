@@ -46,7 +46,14 @@ Here are some ideas to get you started:
   
 
 ## Certification 📜 
+- Introduction To Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1c525071e4c1f90ffadb72f6136a5c0ed1ed20d5)
+- Intermediate Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1ce7f7f3ea116309fa87347613e2acc6b6136e26)
+- Introduction To SQL [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/e5434b1296deeaea88575b668ab45de901ac97fc)
+- Intermediate SQL [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/9e17525f4eaf9aa79eccabab75f3f5357f8c1666)
+- Joining Data In SQL [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/b755fe978a1c19ad967f518cda566d09c6cc1775)
+- Understanding Data Engineering By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/45004c05446ed7cc094bfeeac6e55323b3e254eb)
 - Hp Life Certified [Data Science and Analatics](https://www.life-global.org/certificate/eb1d9a8b-8b50-449d-bbaa-42023a35a01d)
+
 
 ## Follow 📫
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
