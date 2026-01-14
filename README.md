@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"/>, I'm Muhammad Hamza!
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"/>, I'm Muhammad Hamza!
 
 <!--
 **Muhammad-Hamza69/Muhammad-Hamza69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
