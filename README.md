@@ -30,10 +30,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-I am a dedicated Data Engineer with a strong track record of designing and implementing robust, scalable, and real-time data pipelines and analytics platforms. I have hands-on experience across diverse domains, including finance, healthcare, and AI integration. I excel in data-intensive environments and am passionate about transforming raw data into actionable, business-driving insights
-🎓 I'm a Data Engineer and Mern Stack Developer. <br/>
-🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). <br/>
-👨‍💻 I'm interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. <br/>
+I am a dedicated Data Engineer with a strong track record of designing and implementing robust, scalable, and real-time data pipelines and analytics platforms. I have hands-on experience and interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). I excel in data-intensive environments and am passionate about transforming raw data into actionable, business-driving insights
+
 
 ## My Expereinces 🙌
 
