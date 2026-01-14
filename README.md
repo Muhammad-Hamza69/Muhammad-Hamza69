@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 I am a dedicated Data Engineer with a strong track record of designing and implementing robust, scalable, and real-time data pipelines and analytics platforms. I have hands-on experience and interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). I excel in data-intensive environments and passionate about transforming raw data into actionable, business-driving insights
 
+- 2+ years of experience in data engineering, working with high-volume datasets and real-time data systems.
+- Skilled in Python, AWS, Snowflake, Kafka, Airflow, Glue, Docker, CI/CD, dbt, SQL and other cloud-native tools.
+
+
 
 ## My Expereinces 🙌
 
