@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
 </a>
 
+<br>
 ---
 
 ## 🚀 About Me
