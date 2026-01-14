@@ -70,7 +70,7 @@ As a Data Engineer in Aptech my role is to Working on designing and deploying cl
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
 - To Follow my Github search By username `Muhammad-Hamza69`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69/Muhammad-Hamza69)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69&show_icons=true&cache_seconds=1800)
 
 
