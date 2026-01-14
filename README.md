@@ -35,21 +35,25 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - 2+ years of experience in data engineering, working with high-volume datasets and real-time data systems.
 - Skilled in Python, AWS, Snowflake, Kafka, Airflow, Glue, Docker, CI/CD, dbt, SQL and other cloud-native tools.
 
+---
 
+## 💼 My Expereinces
 
-## My Expereinces 🙌
+🔹 Cloud Data Engineer @ Aptech
+As a Data Engineer in Aptech my role is to Working on designing and deploying cloud native data solutions using cloud platforms and modern data management architecture and approach.
 
-- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - I  `worked` at Aptech as a MERN Stack Developer (21 April 2025 - 20 August 2025)
+---
 
-## Techanical Skills 🛠️
+## 🛠️ Techanical Skills 
 - **Cloud Platforms**: Amazon Web Services (AWS)
 - **Orchestration & Streaming**: Apache Airflow, Apache Kafka
 - **Data Platforms**: Databricks, Snowflake
 - **Programming Languages**: Python, SQL
 - **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, SnowFlake
-  
 
-## Certification 📜 
+---
+
+## 📚 Certification
 - Introduction To Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1c525071e4c1f90ffadb72f6136a5c0ed1ed20d5)
 - Intermediate Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1ce7f7f3ea116309fa87347613e2acc6b6136e26)
 - Introduction To SQL [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/e5434b1296deeaea88575b668ab45de901ac97fc)
@@ -58,8 +62,9 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - Understanding Data Engineering By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/45004c05446ed7cc094bfeeac6e55323b3e254eb)
 - Hp Life Certified [Data Science and Analatics](https://www.life-global.org/certificate/eb1d9a8b-8b50-449d-bbaa-42023a35a01d)
 
+---
 
-## Follow 📫
+## 🌐 Let's Connect
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
 - 🔗 Linkedin: (https://www.linkedin.com/in/muhammad-hamza-386a36306/)
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
