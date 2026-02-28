@@ -27,17 +27,20 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 ## 💼 My Expereinces
 
+### 🔹 Cloud Data Engineer @ Virtuosoft   
+Implement the whole warehouse using a medallion architecture. Reduced the time complexity by 80%.
+
 ### 🔹 Cloud Data Engineer @ Aptech   
 As a Data Engineer in Aptech my role is to Working on designing and deploying cloud native data solutions using cloud platforms and modern data management architecture and approach.
 
 ---
 
 ## 🛠️ Techanical Skills 
-- **Cloud Platforms**: Amazon Web Services (AWS)
-- **Orchestration & Streaming**: Apache Airflow, Apache Kafka
+- **Cloud Platforms**: Amazon Web Services (Lambda, Kinesis Firehouse, Kinsesis Data Stream, Glue, EC2, Secret Manager, IAM, Event Bridge, SNS, SQS, S3)
+- **Orchestration & Streaming**: Apache Airflow, Apache Kafka, Apache Nifi
 - **Data Platforms**: Databricks, Snowflake
 - **Programming Languages**: Python, SQL
-- **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, SnowFlake
+- **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, Docker, CI/CD
 
 ---
 
