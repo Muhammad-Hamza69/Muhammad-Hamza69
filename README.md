@@ -30,10 +30,11 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 
 ### 🔹 Cloud Data Engineer @ Saylani Mass It
+I bring over one year of professional experience as a Cloud Data Engineer at Saylani Mass IT Training Program, where I architected and delivered scalable, cloud-based data solutions. My work involved designing end-to-end data pipelines, implementing robust ETL workflows, and building optimized data warehousing solutions. I collaborated on multiple real-world projects focused on performance, reliability, and automation, many of which are showcased in my GitHub repositories. I am passionate about transforming raw data into actionable insights through modern cloud and data engineering best practices.
 
 
 ### 🔹 Cloud Data Engineer @ Virtuosoft   
-
+Currently serving as a Cloud Data Engineer at VirtuSoft, I am responsible for developing and optimizing scalable data architectures in cloud environments. I design end-to-end data pipelines, implement robust ETL/ELT processes, and enhance data warehouse performance to support analytics and business intelligence initiatives. My work focuses on reliability, automation, and performance optimization, ensuring efficient data flow and high availability across systems.
 
 ### 🔹 Cloud Data Engineer @ Aptech   
 As a Data Engineer in Aptech my role is to Working on designing and deploying cloud native data solutions using cloud platforms and modern data management architecture and approach.
