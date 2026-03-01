@@ -22,13 +22,18 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 - 2+ years of experience in data engineering, working with high-volume datasets and real-time data systems.
 - Skilled in Python, AWS, Snowflake, Kafka, Airflow, Glue, Docker, CI/CD, dbt, SQL and other cloud-native tools.
+- AWS cloud Club Captain at University of Karachi
 
 ---
 
 ## 💼 My Expereinces
 
+
+### 🔹 Cloud Data Engineer @ Saylani Mass It
+
+
 ### 🔹 Cloud Data Engineer @ Virtuosoft   
-Implement the whole warehouse using a medallion architecture. Reduced the time complexity by 80%.
+
 
 ### 🔹 Cloud Data Engineer @ Aptech   
 As a Data Engineer in Aptech my role is to Working on designing and deploying cloud native data solutions using cloud platforms and modern data management architecture and approach.
