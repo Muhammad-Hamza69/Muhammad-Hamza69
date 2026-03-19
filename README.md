@@ -67,7 +67,24 @@ As a Data Engineer in Aptech my role is to Working on designing and deploying cl
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
 - To Follow my Github search By username `Muhammad-Hamza69`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69/Muhammad-Hamza69)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hamza69&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hamza69&layout=compact&theme=tokyonight" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hamza69&theme=tokyo-night" />
+</p>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Hamza69.Muhammad-Hamza69)
