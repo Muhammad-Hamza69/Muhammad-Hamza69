@@ -13,7 +13,7 @@
   <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
 </a>
 
-<br />
+
 
 
 
@@ -24,7 +24,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - Skilled in Python, AWS(EC2, Glue, Eventbridge, Lambda, S3, SNS, SQS), Snowflake(Snowpipe, Tasks, Stream), Apache Kafka, Apache Nifi, Airflow, Glue, Docker, CI/CD, dbt, Terraform, SQL and other cloud-native tools.
 - AWS cloud Club Captain at University of Karachi
 
----
+
 
 ## 💼 My Expereinces
 
@@ -37,7 +37,6 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 ** Aptech** — &nbsp;`Jan 2025 – Dec 2025`
 > Designed Medallion Lakehouse (**40% faster**) · Optimized ADF pipelines (**67% improvement**)
 
----
 
 ## 🛠️ Techanical Skills 
 - **Cloud Platforms**: Amazon Web Services (Lambda, Kinesis Firehouse, Kinsesis Data Stream, Glue, EC2, Secret Manager, IAM, Event Bridge, SNS, SQS, S3)
