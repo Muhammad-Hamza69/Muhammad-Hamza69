@@ -15,7 +15,7 @@
 
 <br />
 
----
+
 
 ## 🚀 About Me
 I am a dedicated Data Engineer with a strong track record of designing and implementing robust, scalable, and real-time data pipelines and analytics platforms. I have hands-on experience and interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). I excel in data-intensive environments and passionate about transforming raw data into actionable, business-driving insights
@@ -28,12 +28,14 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 ## 💼 My Expereinces
 
+** Virtuosoft** — &nbsp;`Jan 2026 – May 2026`
+> Built SFTP-to-Snowflake pipelines achieving **99% SLA** · Led Prefect 2→3 migration across 5+ production workflows
 
-### 🔹 Cloud Data Engineer @ Saylani Mass It
-I bring over one year of professional experience as a Cloud Data Engineer at Saylani Mass IT Training Program, where I architected and delivered scalable, cloud-based data solutions. My work involved designing end-to-end data pipelines, implementing robust ETL workflows, and building optimized data warehousing solutions. I collaborated on multiple real-world projects focused on performance, reliability, and automation, many of which are showcased in my GitHub repositories. I am passionate about transforming raw data into actionable insights through modern cloud and data engineering best practices.
+** Saylani Mass It** — &nbsp;`July 2025 – May 2026`
+> Unified Azure + AWS infrastructure for biopharma platform · **40% workload reduction** via dynamic query generation
 
-### 🔹 Cloud Data Engineer @ Aptech   
-As a Data Engineer in Aptech my role is to Working on designing and deploying cloud native data solutions using cloud platforms and modern data management architecture and approach.
+** Aptech** — &nbsp;`Jan 2025 – Dec 2025`
+> Designed Medallion Lakehouse (**40% faster**) · Optimized ADF pipelines (**67% improvement**)
 
 ---
 
@@ -44,7 +46,7 @@ As a Data Engineer in Aptech my role is to Working on designing and deploying cl
 - **Programming Languages**: Python, SQL
 - **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, Docker, CI/CD
 
----
+
 
 ## 📚 Certification
 - Introduction To Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1c525071e4c1f90ffadb72f6136a5c0ed1ed20d5)
@@ -55,7 +57,7 @@ As a Data Engineer in Aptech my role is to Working on designing and deploying cl
 - Understanding Data Engineering By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/45004c05446ed7cc094bfeeac6e55323b3e254eb)
 - Hp Life Certified [Data Science and Analatics](https://www.life-global.org/certificate/eb1d9a8b-8b50-449d-bbaa-42023a35a01d)
 
----
+
 
 ## 🌐 Let's Connect
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
@@ -63,7 +65,7 @@ As a Data Engineer in Aptech my role is to Working on designing and deploying cl
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
 - To Follow my Github search By username `Muhammad-Hamza69`
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69&show_icons=true&theme=tokyonight" />
