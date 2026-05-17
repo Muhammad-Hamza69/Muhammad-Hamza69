@@ -26,7 +26,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - Skilled in Python, AWS(EC2, Glue, Eventbridge, Lambda, S3, SNS, SQS), Snowflake(Snowpipe, Tasks, Stream), Apache Kafka, Apache Nifi, Airflow, Glue, Docker, CI/CD, dbt, Terraform, SQL and other cloud-native tools.
 - AWS cloud Club Captain at University of Karachi
 
-
+<br/>
 
 ## 💼 My Expereinces
 
@@ -39,6 +39,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 ** Aptech** — &nbsp;`Jan 2025 – Dec 2025`
 > Collaborated with analytics teams to design and optimize Star Schema data models in Snowflake, improving dashboard query performance by 50%.
 
+<br/>
 
 ## 🛠️ Techanical Skills 
 
@@ -48,7 +49,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - **Programming Languages**: Python, SQL
 - **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, Docker, CI/CD
 
-
+<br/>
 
 ## 📚 Certification
 
@@ -60,7 +61,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - Understanding Data Engineering By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/45004c05446ed7cc094bfeeac6e55323b3e254eb)
 - Hp Life Certified [Data Science and Analatics](https://www.life-global.org/certificate/eb1d9a8b-8b50-449d-bbaa-42023a35a01d)
 
-
+<br/>
 
 ## 🌐 Let's Connect
 
@@ -69,7 +70,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
 - To Follow my Github search By username `Muhammad-Hamza69`
 
-
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hamza69&theme=tokyonight" />
