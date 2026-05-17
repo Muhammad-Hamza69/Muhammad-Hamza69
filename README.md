@@ -18,8 +18,8 @@
 
 
 
-
 ## 🚀 About Me
+
 I am a dedicated Data Engineer with a strong track record of designing and implementing robust, scalable, and real-time data pipelines and analytics platforms. I have hands-on experience and interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). I excel in data-intensive environments and passionate about transforming raw data into actionable, business-driving insights
 
 - 2+ years of experience in data engineering, working with high-volume datasets and real-time data systems.
@@ -41,6 +41,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 
 ## 🛠️ Techanical Skills 
+
 - **Cloud Platforms**: Amazon Web Services (Lambda, Kinesis Firehouse, Kinsesis Data Stream, Glue, EC2, Secret Manager, IAM, Event Bridge, SNS, SQS, S3)
 - **Orchestration & Streaming**: Apache Airflow, Apache Kafka, Apache Nifi
 - **Data Platforms**: Databricks, Snowflake
@@ -50,6 +51,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 
 ## 📚 Certification
+
 - Introduction To Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1c525071e4c1f90ffadb72f6136a5c0ed1ed20d5)
 - Intermediate Python By DataCamp [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/1ce7f7f3ea116309fa87347613e2acc6b6136e26)
 - Introduction To SQL [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/e5434b1296deeaea88575b668ab45de901ac97fc)
@@ -61,6 +63,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 
 ## 🌐 Let's Connect
+
 - 📧 Email: (m.hamzasiddiqui22@gmail.com)
 - 🔗 Linkedin: (https://www.linkedin.com/in/muhammad-hamza-386a36306/)
 - 💻 Github: (https://github.com/Muhammad-Hamza69)
@@ -69,16 +72,10 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza69&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hamza69&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hamza69&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 <p align="center">
