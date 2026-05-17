@@ -31,13 +31,13 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 ## 💼 My Expereinces
 
 ** Virtuosoft** — &nbsp;`Jan 2026 – May 2026`
-> Built SFTP-to-Snowflake pipelines achieving **99% SLA** · Led Prefect 2→3 migration across 5+ production workflows
+> Engineered and optimized complex ETL/ELT pipelines, reducing data processing latency by 65% (from 60 minutes to 20 minutes) through efficient partitioning and Snowflake query optimization.
 
 ** Saylani Mass It** — &nbsp;`July 2025 – May 2026`
-> Unified Azure + AWS infrastructure for biopharma platform · **40% workload reduction** via dynamic query generation
+> Migrated legacy batch ETL jobs to incremental load pipelines using AWS Glue and AWS Lambda, reducing nightly processing time by 35% and lowering infrastructure costs.
 
 ** Aptech** — &nbsp;`Jan 2025 – Dec 2025`
-> Designed Medallion Lakehouse (**40% faster**) · Optimized ADF pipelines (**67% improvement**)
+> Collaborated with analytics teams to design and optimize Star Schema data models in Snowflake, improving dashboard query performance by 50%.
 
 
 ## 🛠️ Techanical Skills 
