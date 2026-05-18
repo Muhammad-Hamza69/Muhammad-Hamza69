@@ -43,7 +43,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 ## 🛠️ Techanical Skills 
 
-- **Cloud Platforms**: Amazon Web Services (Lambda, Kinesis Firehouse, Kinsesis Data Stream, Glue, EC2, Secret Manager, IAM, Event Bridge, SNS, SQS, S3)
+- **Cloud Platforms**: Amazon Web Services (Lambda, Kinesis Firehouse, Kinesis Data Stream, Kinesis Data Analytics, CloudShell, VPC, Athena, Grafana, Cloudwatch, MSK, AMWA, Glue, EC2, Secret Manager, IAM, Event Bridge, SNS, SQS, S3)
 - **Orchestration & Streaming**: Apache Airflow, Apache Kafka, Apache Nifi
 - **Data Platforms**: Databricks, Snowflake
 - **Programming Languages**: Python, SQL
