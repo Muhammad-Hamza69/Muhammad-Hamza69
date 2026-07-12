@@ -24,7 +24,7 @@ I am a dedicated Data Engineer with a strong track record of designing and imple
 
 - 2+ years of experience in data engineering, working with high-volume datasets and real-time data systems.
 - Skilled in Python, AWS(EC2, Glue, Eventbridge, Lambda, S3, SNS, SQS), Snowflake(Snowpipe, Tasks, Stream), Apache Kafka, Apache Nifi, Airflow, Glue, Docker, CI/CD, dbt, Terraform, SQL and other cloud-native tools.
-- AWS cloud Club Captain at University of Karachi
+- AWS Student Builder Group Leaser at University of Karachi
 
 <br/>
 
